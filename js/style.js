@@ -63,6 +63,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 document.getElementById('overlay').addEventListener('click', function() {
-    window.location.href = '../index.html'; // Cambia 'index.html' por la URL a la que quieres redirigir
+    window.location.href = './index.html'; // Cambia 'index.html' por la URL a la que quieres redirigir
   });
   
